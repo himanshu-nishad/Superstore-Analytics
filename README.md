@@ -38,7 +38,8 @@ This repository contains an end-to-end analysis of the Superstore dataset, highl
 - **Python**: Libraries used include:
   - `Pandas` for data cleaning and manipulation.
   - `Matplotlib` and `Seaborn` for exploratory data analysis and visualizations.
-- **Jupyter Notebook**: For documenting the analysis workflow.
+- **Jupyter Notebook**: For documenting the analysis ![superStore-imm](https://github.com/user-attachments/assets/b8eab479-34b3-415e-831c-f701a85bb189)
+workflow.
 
 ---
 
